@@ -47,7 +47,7 @@ const config: z.input<typeof Schema_Config> = {
      * Then, copy the folder id and paste it here
      */
     rootFolder:
-      "ee2653200c641044b5b75a8298d1daf83294fe2b2757c3d38127203cffd8d08e459945018ef0bee4a47d2e71f87a6fc06b;2bb933e73f25cbf96331644f",
+      "25130078ca675ec4d8fc5a3a18c4fa262447e580a9cc04c0e94d37b01dc58aee;2824c9487cbf257ee75026f9",
 
     /**
      * If your rootfolder inside a shared drive, you NEED to set this to true
@@ -174,9 +174,9 @@ const config: z.input<typeof Schema_Config> = {
      */
     siteName: "imarchives",
     siteNameTemplate: "%s - %t",
-    siteDescription: "A simple file browser for Google Drive",
+    siteDescription: "imar music",
     siteIcon: "/logo.svg",
-    siteAuthor: "aj",
+    siteAuthor: "a",
     favIcon: "/favicon.png",
     /**
      * Next.js Metadata robots object
@@ -285,7 +285,7 @@ const config: z.input<typeof Schema_Config> = {
     "value": "{{ poweredBy }}"
   },
   {
-    "value": "Made with <3"
+    "value": ""
   }
 ],
     /**
