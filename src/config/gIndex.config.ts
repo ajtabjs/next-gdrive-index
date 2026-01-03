@@ -285,7 +285,7 @@ const config: z.input<typeof Schema_Config> = {
     "value": "{{ poweredBy }}"
   },
   {
-    "value": "Made with "
+    "value": "Made with <3"
   }
 ],
     /**
